@@ -1,3 +1,4 @@
+
 # WayDine — Route-Based Highway Restaurant Recommendations
 
 > Find food stops that fit your route, schedule, and detour budget — ranked by actual driving distance, ETA, and road accessibility. Not straight-line guesses.
